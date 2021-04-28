@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @k-kappa
+- 👀 I’m interested in robotics and Computer Science
+- 🌱 I’m currently learning
+- 💞️ I’m looking to collaborate on ... just tring to find out
+- 📫 How to reach me --> koss.krystian@gmauil.com
