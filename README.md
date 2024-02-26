@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @k-kappa
-- 👀 I’m interested in robotics and Computer Science
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate on ... just tring to find out
+- 👀 I’m interested in Robotics and Machine Learning applied at Intelligent Systems
+- 🌱 I’m currently attending Master degree of Computer Engigneering at Univeristy of Bologna
+- 💞️ Excited about the prospect that Autonomous and Adaptive Robots will shape the future!
 - 📫 How to reach me --> koss.krystian@gmail.com
+- 💪 "Stay Hard!"
